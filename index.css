@@ -1,0 +1,11 @@
+table{
+ 
+    color:green; 
+    font-size: 16px; 
+    font-style: normal;
+    font-weight: bold;
+    background: pink;  
+    border-collapse: collapse; 
+    border: 6px solid #000000;
+    border-style:ridge;
+}
